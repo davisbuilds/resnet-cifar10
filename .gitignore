@@ -1,0 +1,46 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.netrwhist
+Session.vim
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.local.json
+
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Misc
+data/cache/
+results/*
+!results/.gitkeep
+.agent/
+.agents/
+.claude/
