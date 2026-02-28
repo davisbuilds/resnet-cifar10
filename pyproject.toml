@@ -2,6 +2,7 @@
 name = "resnet-cifar10"
 version = "0.1.0"
 description = "Paper-faithful ResNet-18 on CIFAR-10 with residual ablation."
+authors = [{name = "davisbuilds"}]
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
